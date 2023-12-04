@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb78e037e6704343b148c18d47fe824, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  weaponName: Rifle
+  bulletPrefab: {fileID: 6093038975102498015, guid: 23af2131adbae854b89545cf88213fc8,
+    type: 3}
+  casingPrefab: {fileID: 7221327730263233346, guid: 4a97d1271c5566d4a82c7cd618f7e87e,
+    type: 3}
+  damage: 50
+  AmmoOnHand: 30
+  MaxAmmoOnHand: 30
+  AmmoInMag: 50
+  MagCapacity: 50
